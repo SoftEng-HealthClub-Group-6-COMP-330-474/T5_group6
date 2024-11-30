@@ -1,4 +1,7 @@
-<<<<<<< HEAD
+# T5_group6
+T5 : implementation of SoftEng Health Club System 
+>>>>>>> origin/main
+>>>>>>> 
 ## Compile and Run:
 
 - Navigate to the root project directory in the terminal.
@@ -12,7 +15,3 @@ This compiles all .java files, preserving their package structure inside the out
 java -cp out main.Main
 ```
 Replace out with the folder where your compiled .class files are located, if different.
-=======
-# T5_group6
-T5 : implementation of SoftEng Health Club System 
->>>>>>> origin/main
