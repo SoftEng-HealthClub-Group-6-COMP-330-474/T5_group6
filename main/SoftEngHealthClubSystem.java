@@ -18,10 +18,10 @@ public class SoftEngHealthClubSystem {
         members.add(new Member("1002", "Jane Smith", "jane.smith@example.com", "Monthly", "2024-10-01", "2024-10-31", "456"));
 
         // Dummy employees
-        employees.add(new Employee("e001", "Alice", "alice@softeng.com", "password123", "Employee"));
+        employees.add(new Employee("e001", "alice@softeng.com", "password123", "Employee", "Alice"));
 
         // Dummy manager
-        managers.add(new Manager("m001", "Bob", "bob@softeng.com", "manager123", "Manager"));
+        managers.add(new Manager("m001", "bob@softeng.com", "manager123", "Manager", "Bob"));
     }
 
     // Add member
